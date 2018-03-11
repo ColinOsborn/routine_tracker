@@ -1,16 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is an app designed to track you habits and routines, and also setting goals for new routines and behaviors.
+Lots of iterations coming, but basic from the beginning hopefully.
 
 Things you may want to cover:
 
 * Ruby version
-
+  -- 5.2
 * System dependencies
-
+  -- pg 1.0?
 * Configuration
-
+  -- basic rails setup, so far
 * Database creation
 
 * Database initialization
