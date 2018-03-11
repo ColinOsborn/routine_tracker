@@ -8,7 +8,7 @@ Things you may want to cover:
 * Ruby version
   -- 5.2
 * System dependencies
-  -- pg 1.0?
+  -- Nothing unusual 
 * Configuration
   -- basic rails setup, so far
 * Database creation
